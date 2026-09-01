@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title">
+  <title id="title">Natalia</title>
+  <defs>
+    <linearGradient id="bg" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffaf1"/>
+      <stop offset=".62" stop-color="#d9c3df"/>
+      <stop offset="1" stop-color="#f5ebdf"/>
+    </linearGradient>
+    <radialGradient id="flower" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fffaf1"/>
+      <stop offset=".58" stop-color="#c4a1ce"/>
+      <stop offset="1" stop-color="#9c7aa8"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <path d="M786 206C632 378 523 574 446 936" fill="none" stroke="#8a997f" stroke-width="9" opacity=".45"/>
+  <g opacity=".76">
+    <circle cx="740" cy="182" r="76" fill="url(#flower)"/>
+    <circle cx="650" cy="112" r="52" fill="url(#flower)"/>
+    <circle cx="806" cy="286" r="54" fill="url(#flower)"/>
+    <circle cx="128" cy="892" r="86" fill="url(#flower)"/>
+    <circle cx="234" cy="972" r="58" fill="url(#flower)"/>
+    <circle cx="90" cy="764" r="54" fill="url(#flower)"/>
+  </g>
+  <g fill="#d9c3df" stroke="#6f547a" stroke-width="4" opacity=".58">
+    <path d="M386 384c-98-150-238-79-136 41 46 54 102 51 136-41z"/>
+    <path d="M514 384c98-150 238-79 136 41-46 54-102 51-136-41z"/>
+    <path d="M450 392v196"/>
+  </g>
+  <text x="450" y="646" text-anchor="middle" fill="#6f547a" font-family="Georgia, serif" font-size="92" letter-spacing="8">NATALIA</text>
+  <text x="450" y="728" text-anchor="middle" fill="#b89157" font-family="Brush Script MT, cursive" font-size="72">Primera Comunión</text>
+</svg>
