@@ -1,0 +1,29 @@
+{
+  "slug": "regis",
+  "tier": "free",
+  "eventType": "Primera Comunión",
+  "names": "Regis",
+  "eventDate": "2026-09-28T04:06:00.000Z",
+  "city": "CDMX",
+  "welcome": "Hola",
+  "church": {
+    "name": "Salon de eventos",
+    "time": "2:00 p.m.",
+    "address": "alguna direccion",
+    "maps": "https://www.google.com/maps/search/?api=1&query=alguna%20direccion"
+  },
+  "reception": {
+    "name": "Salon",
+    "time": "3:30 p.m.",
+    "address": "otra direccion",
+    "maps": "https://www.google.com/maps/search/?api=1&query=otra%20direccion"
+  },
+  "dressCode": "",
+  "giftRegistry": "",
+  "rsvpPhone": "5526960769",
+  "rsvpMessage": "Hola, confirmo mi asistencia a Primera Comunión de Regis.",
+  "photos": [],
+  "finalMessage": "gracias",
+  "createdAt": "2026-09-02T04:07:42.544Z",
+  "expiresAt": "2026-10-13T04:06:00.000Z"
+}

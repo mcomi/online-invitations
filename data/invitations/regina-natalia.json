@@ -1,0 +1,33 @@
+{
+  "slug": "regina-natalia",
+  "tier": "premium",
+  "eventType": "Primera Comunión",
+  "names": "Regina y Natalia",
+  "eventDate": "2026-11-14T12:00:00-06:00",
+  "city": "Atizapán de Zaragoza, Estado de México",
+  "welcome": "Con mucha alegría damos gracias a Dios por este día tan especial. Nos encantará compartirlo con las personas que forman parte de nuestra historia.",
+  "church": {
+    "name": "Parroquia por confirmar",
+    "time": "12:00 p.m.",
+    "address": "Atizapán de Zaragoza, Estado de México",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atizapan%20de%20Zaragoza%20Iglesia"
+  },
+  "reception": {
+    "name": "Recepción por confirmar",
+    "time": "Después de la ceremonia",
+    "address": "Atizapán de Zaragoza, Estado de México",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atizapan%20de%20Zaragoza%20recepcion"
+  },
+  "dressCode": "Marfil, lila empolvado, lavanda, gris perla o colores suaves.",
+  "giftRegistry": "https://www.liverpool.com.mx/tienda/mesa-de-regalos",
+  "rsvpPhone": "525500000000",
+  "rsvpMessage": "Hola, confirmo mi asistencia a la Primera Comunión de Regina y Natalia.",
+  "photos": [
+    { "name": "Regina", "src": "/photos/regina-placeholder.svg" },
+    { "name": "Natalia", "src": "/photos/natalia-placeholder.svg" },
+    { "name": "Regina y Natalia", "src": "/photos/together-placeholder.svg" }
+  ],
+  "finalMessage": "Gracias por acompañarnos con su cariño, sus oraciones y su presencia en este momento tan importante para Regina y Natalia.",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "expiresAt": "2027-05-13T12:00:00-06:00"
+}
