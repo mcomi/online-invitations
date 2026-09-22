@@ -1,29 +1,34 @@
 {
   "slug": "regis",
-  "tier": "free",
+  "tier": "premium",
+  "template": "acuarela",
   "eventType": "Primera Comunión",
-  "names": "Regis",
-  "eventDate": "2026-09-28T04:06:00.000Z",
-  "city": "CDMX",
-  "welcome": "Hola",
+  "names": "Regina Sofía",
+  "eventDate": "2026-10-24T12:00:00.000-06:00",
+  "city": "Ciudad de México",
+  "welcome": "Con el corazón lleno de alegría, te invitamos a acompañarnos en el día en que Regina Sofía recibirá por primera vez el Cuerpo de Cristo.",
   "church": {
-    "name": "Salon de eventos",
-    "time": "2:00 p.m.",
-    "address": "alguna direccion",
-    "maps": "https://www.google.com/maps/search/?api=1&query=alguna%20direccion"
+    "name": "Parroquia de la Sagrada Familia",
+    "time": "12:00 p.m.",
+    "address": "Calle Amores 1526, Col. Del Valle, CDMX",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Parroquia%20de%20la%20Sagrada%20Familia%20CDMX"
   },
   "reception": {
-    "name": "Salon",
-    "time": "3:30 p.m.",
-    "address": "otra direccion",
-    "maps": "https://www.google.com/maps/search/?api=1&query=otra%20direccion"
+    "name": "Jardín Los Encinos",
+    "time": "2:00 p.m.",
+    "address": "Av. de los Encinos 88, Tlalpan, CDMX",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Jard%C3%ADn%20Los%20Encinos%20Tlalpan"
   },
-  "dressCode": "",
+  "dressCode": "Formal — tonos lila, blanco y dorado, como sus flores favoritas.",
   "giftRegistry": "",
-  "rsvpPhone": "5526960769",
-  "rsvpMessage": "Hola, confirmo mi asistencia a Primera Comunión de Regis.",
-  "photos": [],
-  "finalMessage": "gracias",
+  "rsvpPhone": "525526960769",
+  "rsvpMessage": "Hola, confirmo mi asistencia a la Primera Comunión de Regina Sofía.",
+  "photos": [
+    { "name": "Regina Sofía", "src": "/photos/regina-placeholder.svg" },
+    { "name": "En familia", "src": "/photos/together-placeholder.svg" },
+    { "name": "Un día especial", "src": "/photos/natalia-placeholder.svg" }
+  ],
+  "finalMessage": "Gracias por acompañarnos con su cariño y sus oraciones en este día tan especial. Que Dios los bendiga siempre.",
   "createdAt": "2026-09-02T04:07:42.544Z",
-  "expiresAt": "2026-10-13T04:06:00.000Z"
+  "expiresAt": "2027-04-22T12:00:00.000-06:00"
 }

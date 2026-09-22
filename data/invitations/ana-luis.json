@@ -1,0 +1,30 @@
+{
+  "slug": "ana-luis",
+  "tier": "premium",
+  "template": "minimal",
+  "eventType": "Boda",
+  "names": "Ana & Luis",
+  "eventDate": "2026-11-14T16:00:00.000-06:00",
+  "city": "Ciudad de México",
+  "welcome": "Nos encantaría contar con tu presencia para celebrar este nuevo capítulo de nuestras vidas.",
+  "church": {
+    "name": "Parroquia San José",
+    "time": "12:00",
+    "address": "Calle Reforma 123, Col. Centro, CDMX",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Parroquia%20San%20Jose%20CDMX"
+  },
+  "reception": {
+    "name": "Jardín Alameda",
+    "time": "14:00",
+    "address": "Av. Insurgentes 456, CDMX",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Jardin%20Alameda%20CDMX"
+  },
+  "dressCode": "Formal — tonos tierra",
+  "giftRegistry": "https://www.liverpool.com.mx/tienda/mesa-de-regalos",
+  "rsvpPhone": "525500000000",
+  "rsvpMessage": "Hola, confirmo mi asistencia a la boda de Ana y Luis.",
+  "photos": [],
+  "finalMessage": "Gracias por acompañarnos en este día tan especial.",
+  "createdAt": "2026-09-21T00:00:00.000Z",
+  "expiresAt": "2027-05-13T16:00:00.000-06:00"
+}

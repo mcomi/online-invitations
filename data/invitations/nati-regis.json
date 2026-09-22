@@ -1,0 +1,30 @@
+{
+  "slug": "nati-regis",
+  "tier": "free",
+  "template": "acuarela",
+  "eventType": "Primera Comunión",
+  "names": "Natalia y Regina Comi",
+  "eventDate": "2026-10-31T04:21:00.000Z",
+  "city": "Mexico",
+  "welcome": "Hola",
+  "church": {
+    "name": "Iglesia",
+    "time": "1:00 pm",
+    "address": "Atizapan centro",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atizapan%20centro"
+  },
+  "reception": {
+    "name": "Villa Manur",
+    "time": "3:00 pm",
+    "address": "Atizapan Centro",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atizapan%20Centro"
+  },
+  "dressCode": "Lo que sea",
+  "giftRegistry": "",
+  "rsvpPhone": "5533342193",
+  "rsvpMessage": "Hola, confirmo mi asistencia a Primera Comunión de Natalia y Regina Comi.",
+  "photos": [],
+  "finalMessage": "Hola",
+  "createdAt": "2026-09-21T04:23:18.544Z",
+  "expiresAt": "2026-11-15T04:21:00.000Z"
+}

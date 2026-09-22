@@ -1,0 +1,30 @@
+{
+  "slug": "regis-y-natali",
+  "tier": "free",
+  "template": "acuarela",
+  "eventType": "Primera Comunión",
+  "names": "Natali y Regis",
+  "eventDate": "2026-11-26T04:34:00.000Z",
+  "city": "Mexico",
+  "welcome": "Hola a todos",
+  "church": {
+    "name": "Iglesia",
+    "time": "12:00 p.m.",
+    "address": "Atizapan",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atizapan"
+  },
+  "reception": {
+    "name": "Villa Manur",
+    "time": "2:00 p.m.",
+    "address": "Atizapan Centro",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atizapan%20Centro"
+  },
+  "dressCode": "",
+  "giftRegistry": "",
+  "rsvpPhone": "5533342193",
+  "rsvpMessage": "Hola, confirmo mi asistencia a Primera Comunión de Natali y Regis.",
+  "photos": [],
+  "finalMessage": "gracias!",
+  "createdAt": "2026-09-21T04:35:20.435Z",
+  "expiresAt": "2026-12-11T04:34:00.000Z"
+}
