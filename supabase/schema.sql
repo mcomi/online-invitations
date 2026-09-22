@@ -4,6 +4,7 @@
 create table if not exists invitations (
   slug text primary key,
   tier text not null default 'free' check (tier in ('free', 'premium')),
+  template text not null default 'acuarela' check (template in ('acuarela', 'clasico', 'minimal')),
   event_type text not null,
   names text not null,
   event_date timestamptz not null,
